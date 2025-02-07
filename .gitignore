@@ -1,0 +1,27 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del entorno
+.env
+
+# Dependencias
+node_modules/
+vendor/
+
+# Archivos de compilación
+/dist
+/bin
+/build
+
+# Archivos de configuración específicos de IDEs y editores
+.vscode/
+.idea/
+*.log
+
+# Configuración de Bootstrap y CSS
+CSS/bootstrap.min.css.map
+CSS/*.map
+
+# Otros
+*.bak

@@ -1,0 +1,77 @@
+
+Estudio CH Font License v1.00
+
+This license can also be found at this permalink: https://www.fontsquirrel.com/license/espinosa-nova
+
+Agreement
+[Si usted requiere la version en espanol de este documento, por favor escriba a cristobal@estudio-ch.com.]
+
+First of all, the author explicitly thanks the user for licensing this font software, which is the product of a huge amount of time and energy. Questions, feedback and comments are welcomed at cristobal@estudio-ch.com.
+
+—-
+
+(Abbreviated) rules of use
+
+With a license you can:
+-Install the font on five devices, not necessarily at the same physical location.
+-Embed the font into files for preview and printing (as a PDF, for instance).
+-Send a copy to the service bureau so they can reproduce a job for you (this copy must be deleted when the process is done).
+-Open and modify the font in a software such as FontLab, so it can best fit your purposes, as long as the author has been previously informed.
+
+But you cannot:
+-Install the font on more than five devices if you have not purchased additional licenses.
+-Embed the font into files or applications who allow the editing of the document, or to extract or install the font.
+-Allow the service bureau to keep the font after they process the job (although you can invite them to get their own license).
+-Redistribute the font to non-authorized persons, either the original or the font modified by you.
+
+The detailed rules of use are reproduced below. I will not lie: it is a boring text. But it is important to know it, since it is a legal contract that you are actually signing by installing the fonts.
+
+—-
+
+End User License Agreement
+
+This end user license agreement is a legal agreement between you, your company, you on behalf of your employer, or whatever you represent (herein “the user”) and Cristóbal Henestrosa Matus (herein “the author”). It is applicable to the font software that the user has ordered from the author or his authorized distributors.
+
+Cristóbal Henestrosa Matus
+Hopelchén 415, Héroes de Padierna,
+Tlalpan, México DF, 14200
+
+By purchasing and installing the font software, the user is agreeing to be bound by the terms of this agreement. This document constitutes the complete agreement between the user and the author and supersedes all previous agreements, promises, representations and negotiations between the parties concerning the font software. If the user does not agree with the terms of this agreement, the user must delete all the files received and return all accompanying materials. A signed affidavit may be required to receive a refund.
+
+1. The user knows and accepts that the digital files provided to the user contain font software that is the intellectual property of the author, who is the legitimate titular of the patrimonial rights, such as the rights of reproduction, distribution, transformation and public communication; hereby, the user knows and accepts that the author owns in their entirety the intellectual and industrial property over such files.
+
+2. The user has not purchased the property of the font software, but rather a license to use it by the terms and conditions of this agreement. In exchange for the license fee, the author grants the user only the non-exclusive, nontransferable right to use the font software.
+
+3. The user may install and utilize the font software on up to 5 (five) devices connected to any number of printers or other image producing devices (regardless of resolutions). A device may be, but is not limited to, a printer, video display terminal, CPU, portable computer (laptop), workstation or any device where the font software is rasterized or display of the font software is generated from font software outlines. The five devices need not to be at the same physical location. The home computer of the user can be one of the devices. The personal computer of one of the user’s employees or even the computer of a freelancer doing a specific job for the user can be counted as one of the devices, but the employee or the freelancer cannot use the font software for any other purpose. If the user wishes to have installed the font software on more than five devices at the same time, additional licenses must be purchased. Licensing discounts may be obtained by contacting the author.
+
+4. Except in the cases stated above, the user is not authorized to rent, sell, lend, lease, share or give away the font software to another person or entity. Sublicensing is not allowed. Unauthorized copying of the font software, even if modified, merged, or included with other software, is expressly forbidden. The user may be held legally responsible for any infringement of the author’s intellectual property rights that is caused or encouraged by the user’s failure to abide by the terms of this agreement. The user may copy this agreement as necessary to ensure distribution to all persons who have access to the font software and to make sure that they comply with the terms of this agreement.
+
+5. Backup additional copies of the font software are only allowed for exclusive archival purposes, provided the user retains exclusive care and control over such copies. The copyright and trademark notices must be reproduced in their entirety on the backup copy.
+
+6. The user may give a copy of the font software used in a particular document to a commercial printer or service bureau for the reproduction of this particular document. Upon completion of reproduction, the commercial printer or the service bureau must remove/erase the copy of the font software. The user is responsible for securing this data and making sure that unlicensed copies do not leave his/her possession.
+
+7. Embedding of font software into documents (such as PDF) or internet pages is only permitted in a secured print/read-only mode. Editing or modifying content is not allowed, except in the case of internal corporate documents being modified on licensed devices. The user must ensure that recipients of such documents or internet pages cannot extract the font software or use the embedded font software for editing purposes or for the creation of new documents.
+
+8. Modifying font software is allowed, but the author must be informed and provide prior authorization. Any modified font software is considered as derivative work and the use of derivative work is subject to the terms and conditions of this agreement.
+
+9. Under explicit authorization, derivative work may be utilized instead of the original font software on the licensed devices. Derivative work must keep the original names, copyright and trademarks notices in their entirety. However, under no circumstances may the resulting work be for resale or further distribution. The author is responsible for technical support of the original fonts only, and is not responsible for the font software modified by the user or third parties.
+
+10. The author may, from time to time, update the font software. An upgrade pricing may apply.
+
+11. Damaged or defective font software will be replaced or reimbursed when accompanied by the valid sales receipt and the user license number within 30 (thirty) day period after purchasing.
+
+12. The software and any other accompanying written or electronic materials are provided “as is” without warranty of any kind, expressed or implied, and the author specifically disclaims the warranties of fitness for a particular purpose and merchantability. In addition, the author does not make any representations regarding the use or the results of the use of the font software or the accompanying written or electronic materials in terms of correctness, accuracy, reliability, or otherwise.
+
+13. The entire risk as to the quality and performance of the font software rests upon the user. The author does not warrant that the functions contained in the font software will meet the user’s requirements or that the operation of the font software will be uninterrupted or error free, or that defects will be corrected.
+
+14. The author shall not be liable for any direct, indirect, consequential, or incidental damages (including damages from loss of business profits, business interruption, loss of business information, and the like) arising out of the use of or inability to use the font software even if the author has been advised of the possibility of such damages. Author’s liability to the user shall in no event exceed the replacement cost of the font software.
+
+15. Some jurisdictions do not allow the exclusion or limitation of incidental, consequential, special damages, or implied warranties. Any implied warranty or condition created by law is only effective for the 30 (thirty) day warranty period. There are no warranties or conditions of any kind after the 30 (thirty) day warranty period. The exclusions noted above may not apply to the user. Otherwise, and to the extent permissible by law, the user agrees that all implied warranties are not effective for more than 30 (thirty) days or the shortest period of time allowed by law.
+
+16. The validity, construction, and performance of this agreement shall be governed by the laws of the Federal District of Mexico. The parties to this agreement specifically consent to the jurisdiction of the courts of the Federal District of Mexico over any action arising out of or related to this agreement.
+
+17. This agreement is effective until terminated. The author may terminate this agreement for any breach of this agreement by the user upon 30 (thirty) days written notice to the user. The written notice shall identify the alleged breach(es) by the user and request a cure. If the user fails to cure the breach(es) within the 30 (thirty) day period, this agreement shall automatically terminate. Upon termination of this agreement for any reason, the user must destroy the written and electronic materials, the font software, and all copies of them, in part and in whole, including modified copies, if any. The user shall also certify to the author that all copies of the font software have been destroyed. In the event of bankruptcy on the part of the user, this agreement shall automatically terminate.
+
+18. The Spanish version of this agreement will be the version used when interpreting or construing this agreement. A copy of the Spanish version of the agreement can be obtained by writing to cristobal@estudio-ch.com.
+
+19. If any provision of this agreement is declared by a court of competent jurisdiction to be invalid, void or unenforceable, the remaining provisions of this agreement shall continue in full force and effect.
