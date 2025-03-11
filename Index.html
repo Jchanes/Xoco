@@ -6,14 +6,185 @@
     <title>Xoco</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="CSS/Header.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    <style>
+        .carousel-inner img {
+            height: 400px;
+            object-fit: cover;
+            opacity: 0.7;
+        }
+
+        .bottom-indicators {
+            position: relative;
+            bottom: -30px;
+            text-align: center;
+        }
+
+        .bottom-indicators button {
+            background-color: gray;
+        }
+
+        .carousel-logo {
+            position: absolute;
+            top: 45%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 10;
+        }
+           
+        .carousel-logo img {
+            height: 100px;
+            width: auto;
+            opacity: 1.0;
+        }
+
+
+        @font-face {
+    font-family: 'Espinosa Nova Bold';
+    src: url('fonts/EspinosaNovaPro-Bold.otf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Espinosa Nova Regular';
+    src: url('fonts/EspinosaNovaPro-Regular.otf') format('truetype');
+
+  }
+
+  @font-face {
+    font-family: 'Mukta Regular';
+    src: url('fonts/Mukta-Regular.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Mukta Extra Light';
+    src: url('fonts/Mukta-ExtraLight.ttf') format('truetype');
+}
+
+        .description-section {
+            background-color: #ffffff;
+            color: #000000;
+            padding: 40px 0;
+            text-align: center;
+            font-family: 'Espinosa Nova Bold';
+         
+        }
+
+        .description-section h2 {
+            font-family: 'Espinosa Nova Bold';
+            font-size: 4rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+        }
+
+
+
+        .description-section img {
+            border-radius: 8px;
+            width: 100%;
+        }
+
+        .footer-bar {
+        background-color: #2f55a4;
+        color: white;
+        padding: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .footer-logo {
+        width: 50px;
+        height: auto;
+    }
+    .back-to-top {
+        background-color: white;
+        color: #2f55a4;
+        border: none;
+        padding: 5px 10px;
+        cursor: pointer;
+    }
+      
+    </style>
 </head>
 <body>
-    <!-- Header Container -->
+    <!-- Header -->
     <div id="header-container"></div>
 
-    <!-- Main Content -->
+    <!-- Carrusel -->
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+        <!-- Logo carrusel -->
+        <div class="carousel-logo">
+            <img src="Assets/images/logoxoco.png" alt="Logo" />
+        </div>
+
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="Assets/images/Fotos editadas (finales)/torito1.png" class="d-block w-100" alt="Primera imagen">
+            </div>
+            <div class="carousel-item">
+                <img src="Assets/images/Fotos editadas (finales)/torito2.png" class="d-block w-100" alt="Segunda imagen">
+            </div>
+            <div class="carousel-item">
+                <img src="Assets/images/Fotos editadas (finales)/torito3.png" class="d-block w-100" alt="Tercera imagen">
+            </div>
+        </div>
+        
+        <!-- Controles carrusel -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Anterior</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Siguiente</span>
+        </button>
+    </div>
+
+    <!-- Sección Xoco -->
+    <div class="description-section text-center p-4">
+        <h2>Xipil</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        </p>
+        <!-- Imagen seccion -->
+        <img src="Assets/images/Fotos editadas (finales)/XOCO.png" alt="Imagen de San Sebastian Xoco">
+    </div>
+
+    <!-- Sección contexto -->
+    <div class="description-section text-center p-4">
+        <h2>San Sebastian Xoco</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        </p>
+        <!-- Imagen contexto -->
+        <img src="Assets/images/Fotos editadas (finales)/IMG_6120.png" alt="Imagen del Contexto Actual">
+    </div>
+
+    <div class="description-section text-center p-4">
+        <h2>Contexto Actual</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        </p>
+        <!-- Imagen contexto -->
+        <img src="Assets/images/Fotos editadas (finales)/IMG_6120.png" alt="Imagen del Contexto Actual">
+    </div>
+
+    <!-- pie de pagina -->
+    <footer class="footer-bar">
+        <img src="Assets/images/logo.png" alt="Footer Logo" class="footer-logo">
+        <span>Xipil, derechos reservados</span>
+        <button class="back-to-top" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });">Subir</button>
+    </footer>
+
+    <!-- contenido -->
     <div class="content">
-        <!-- Your page content here -->
+       
+         
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
