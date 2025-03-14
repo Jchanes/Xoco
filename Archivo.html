@@ -6,122 +6,9 @@
     <title>Entregables</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="CSS/Header.css">
+    <link rel="stylesheet" href="CSS/General.css">
+    <link rel="stylesheet" href="CSS/Footer.css">
 
-    <style>
-    /* Fonts */
-    @font-face {
-    font-family: 'Espinosa Nova Bold';
-    src: url('fonts/EspinosaNovaPro-Bold.otf') format('truetype');
-  }
-
-    @font-face {
-    font-family: 'Espinosa Nova Regular';
-    src: url('fonts/EspinosaNovaPro-Regular.otf') format('truetype');
-  }
-
-    @font-face {
-    font-family: 'Mukta Regular';
-    src: url('fonts/Mukta-Regular.ttf') format('truetype');
-  }
-
-    @font-face {
-    font-family: 'Mukta Extra Light';
-    src: url('fonts/Mukta-ExtraLight.ttf') format('truetype');
-}
-        
-        
-    body {
-    font-family: 'Mukta Extra Light';
-    line-height: 1.6;
-    background: url('IMG/patron.png') repeat;
-    opacity: 0.9; /* Ajustable */
-}
-
-    /* Rectángulo de color (intercalado izquierda-derecha) */
-    .colored-box {
-    position: absolute;
-    top: 10%;
-    background-color: #88A845; /* Color personalizable */
-    padding: 20px;
-    max-width: 400px;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: fit-content;
-}
-/* Posición del rectángulo en secciones impares (izquierda) */
-    .left-box {
-    left: 5%;
-}
-
-        /* Posición del rectángulo en secciones pares (derecha) */
-    .right-box {
-    right: 5%;
-    text-align: right;
-}
-        /* Logo en el rectángulo */
-    .logo {
-    width: 50px;
-    height: auto;
-    margin-left: 10px;
-}
-        /* Estilos para imágenes inclinadas */
-    .tilted-image {
-    display: block;
-    margin: 80px auto 100px; /* Más espacio entre imagen inclinada y texto */
-    max-width: 90%;
-    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
-}
-
-    .tilted-left {
-    transform: rotate(-5deg);
-}
-
-    .tilted-right {
-    transform: rotate(5deg);
-}
-        /* Cintillo de pie de página */
-    .footer-bar {
-    background-color: #2f55a4;
-    color: white;
-    padding: 15px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-    
-    .footer-logo {
-    width: 50px;
-    height: auto;
-}
-    .back-to-top {
-    background-color: white;
-    color: #2f55a4;
-    border: none;
-    padding: 5px 10px;
-    cursor: pointer;
-}
-/* Ajustes para móviles */
-    @media (max-width: 768px) {
-        .colored-box {
-        top: 5%;
-        left: 2%;
-        width: 90%;
-        max-width: none;
-        text-align: left !important;
-    }
-        .right-box {
-        right: auto;
-        left: 2%;
-    }
-} 
-        /* Tamaño más pequeño para "Entregable X" */
-    .small-title {
-            font-size: 14px;
-}
-
-</style>
 </head>
 
 <body>
@@ -167,19 +54,20 @@
     </div>
 
     <!-- Pie de página -->
-    <footer class="footer-bar">
-        <img src="Assets/images/logo.png" alt="Footer Logo" class="footer-logo">
-        <span>Xipil, derechos reservados</span>
-        <button class="back-to-top" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });">Subir</button>
-    </footer>
+     <footer></footer>
 
 <!-- Script de Bootstrap -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
-    <!-- Cargar el header -->
+    <!-- Cargar el header y footer -->
     <script type="module">
         import { loadHeader } from './JS/Header.js';
-        document.addEventListener('DOMContentLoaded', loadHeader);
+        import { loadFooter } from './JS/Footer.js';
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadHeader();
+            loadFooter();
+        });
     </script>
 
 </body>

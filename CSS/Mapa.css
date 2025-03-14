@@ -1,0 +1,19 @@
+/* Map.css */
+.map-popup {
+    text-align: center;
+    min-width: 200px;
+}
+
+.map-popup h5 {
+    font-family: 'Espinosa Nova Bold';
+    color: #2f55a4;
+    margin-bottom: 10px;
+}
+
+.leaflet-popup-content-wrapper {
+    border-radius: 8px !important;
+}
+
+.leaflet-popup-content {
+    margin: 12px !important;
+}

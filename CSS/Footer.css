@@ -1,0 +1,42 @@
+/* Componente Footer */
+.footer-logo {
+    width: 50px;
+    height: auto;
+    filter: brightness(0) invert(1);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .footer-bar {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+}
+
+/* .footer-bar {
+    background-color: #2f55a4;
+    color: white;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-logo {
+    width: 50px;
+    height: auto;
+}
+
+.back-to-top {
+    background-color: white;
+    color: #2f55a4;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.back-to-top:hover{
+        transform: translateY(-2px);
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+} */
